@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Safety Street",
+    "slug": "safety-street",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#072960"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.gaaabrieuuu.safetystreet",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#072960"
+      }
+    },
+    "plugins": [],
+    "extra": {
+      "eas": {
+        "projectId": "aeb4c170-cba5-4fe3-956d-8c6396a1f089"
+      }
+    }
+  }
+}
